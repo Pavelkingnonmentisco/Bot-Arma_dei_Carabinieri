@@ -5,7 +5,7 @@
 
 const { Client, GatewayIntentBits, REST, Routes, SlashCommandBuilder, EmbedBuilder, PermissionFlagsBits } = require('discord.js');
 
-const TOKEN      = process.env.BOT_TOKEN;
+const TOKEN      = process.env.BOT_TOKEN;MTQ5NjIxNzI2NDcxMjU4NTQyOQ.GSSsZI.3utRQPOwDJxexC-HRzjybmHS06e7kBJG4ExFcU
 const CLIENT_ID  = process.env.CLIENT_ID  || '1496217264712585429';
 const GUILD_ID   = process.env.GUILD_ID;
 const WEBHOOK    = process.env.WEBHOOK_URL || "https://discord.com/api/webhooks/1496219749971923034/JxyWhVqJ8MkSjzr1p8JxlyA9sJgxQZyb02aellGRmsuRIVTKYVy_OyyimBz91_7KU0qu";
